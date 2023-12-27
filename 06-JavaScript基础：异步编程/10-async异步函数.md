@@ -410,9 +410,5 @@ err1: 任务1失败
 
 - [理解 JavaScript 的 async/await](https://segmentfault.com/a/1190000007535316)
 
-## 赞赏作者
 
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)
 

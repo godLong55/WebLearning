@@ -115,8 +115,4 @@ undefined 实际上是由 null 衍生出来的，所以`null == undefined`的结
 -   任何数据类型和 undefined 运算都是 NaN。
 
 
-## 赞赏作者
 
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)

@@ -353,8 +353,4 @@ JavaScript 基础分为三个部分：
 
 - [汇编语言(转) | Xian Rong](https://xianrong.github.io/2017/11/14/%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%28%E8%BD%AC%29/)
 
-## 赞赏作者
 
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20220401_1800.jpg)
